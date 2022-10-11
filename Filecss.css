@@ -1,0 +1,56 @@
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+
+	.background {
+		background: black;
+	}
+
+	.nav-list {
+		display: flex;
+		align-items: center;
+	}
+
+	
+	.nav-list li {
+		padding: 26px 30px;
+        color: brown;
+	}
+
+	.nav-list li a {
+		text-decoration: none;
+		color: white;
+	}
+
+    /* .center{
+        text-align: center;
+    } */
+
+    .question{
+        background-color:#1d073194; 
+        text-align: center;
+    }
+
+    .defination{
+        font-size: 25px;
+        font-weight: bold;
+        background-color: #1d073194;
+        text-align: center;
+    }
+
+    .order{
+        background-color: #b78edc94;
+        list-style: inside;
+    }
+
+   
+	.text-footer {
+		text-align: center;
+		padding: 30px 0;
+		display: flex;
+		justify-content: center;
+		color: white;
+	}
+
